@@ -1,0 +1,26 @@
+{
+  "rows_in": 6,
+  "papers_out": 3,
+  "skipped": {
+    "no abstract": 1
+  },
+  "duplicates_removed": 2,
+  "columns_used": {
+    "paper_id": "id",
+    "title": "title",
+    "abstract": "abstract",
+    "year": "year",
+    "date": "date",
+    "doi": "doi",
+    "country": "affiliation_country",
+    "organizations": "institutions",
+    "topics": "topics",
+    "methods": "methods"
+  },
+  "countries_without_iso_code": {
+    "Atlantis": 1
+  },
+  "topics_outside_taxonomy": {
+    "Plasma Wake Physics": 1
+  }
+}

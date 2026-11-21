@@ -1,0 +1,110 @@
+[
+  {
+    "paper_id": "p1",
+    "title": "Optical navigation for small bodies",
+    "abstract": "We study optical navigation near asteroids. Results are reported for two cameras.",
+    "authors": [],
+    "publication_date": "2021-01-01",
+    "publication_year": 2021,
+    "journal": null,
+    "conference": null,
+    "publisher": null,
+    "doi": "10.1/ABC",
+    "source_url": null,
+    "open_access_url": null,
+    "country": "United States",
+    "organizations": [
+      "JPL",
+      "Caltech"
+    ],
+    "citation_count": null,
+    "reference_count": null,
+    "research_type": null,
+    "derived": {
+      "topics": [
+        "Spacecraft Navigation",
+        "Computer Vision"
+      ],
+      "subtopics": [],
+      "missions": [],
+      "spacecraft": [],
+      "technologies": [],
+      "methods": [
+        "Deep Learning"
+      ],
+      "entities": [],
+      "keywords": [],
+      "embedding_reference": null
+    },
+    "is_synthetic": false
+  },
+  {
+    "paper_id": "p5",
+    "title": "Plasma wakes behind probes",
+    "abstract": "Plasma wakes behind small probes are simulated.",
+    "authors": [],
+    "publication_date": "2022-01-01",
+    "publication_year": 2022,
+    "journal": null,
+    "conference": null,
+    "publisher": null,
+    "doi": "10.2/x",
+    "source_url": null,
+    "open_access_url": null,
+    "country": "Atlantis",
+    "organizations": [],
+    "citation_count": null,
+    "reference_count": null,
+    "research_type": null,
+    "derived": {
+      "topics": [
+        "Other topics",
+        "Space Weather"
+      ],
+      "subtopics": [],
+      "missions": [],
+      "spacecraft": [],
+      "technologies": [],
+      "methods": [],
+      "entities": [],
+      "keywords": [],
+      "embedding_reference": null
+    },
+    "is_synthetic": false
+  },
+  {
+    "paper_id": "p6",
+    "title": "Lunar regolith sintering",
+    "abstract": "Sintering of lunar regolith is tested in a vacuum chamber.",
+    "authors": [],
+    "publication_date": "2018-01-01",
+    "publication_year": 2018,
+    "journal": null,
+    "conference": null,
+    "publisher": null,
+    "doi": null,
+    "source_url": null,
+    "open_access_url": null,
+    "country": null,
+    "organizations": [
+      "ESA"
+    ],
+    "citation_count": null,
+    "reference_count": null,
+    "research_type": null,
+    "derived": {
+      "topics": [
+        "In-Space Manufacturing"
+      ],
+      "subtopics": [],
+      "missions": [],
+      "spacecraft": [],
+      "technologies": [],
+      "methods": [],
+      "entities": [],
+      "keywords": [],
+      "embedding_reference": null
+    },
+    "is_synthetic": false
+  }
+]

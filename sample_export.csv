@@ -1,0 +1,7 @@
+id,title,abstract,year,date,doi,affiliation_country,institutions,topics,methods
+p1,Optical navigation for small bodies,We study optical navigation near asteroids. Results are reported for two cameras.,2021,,10.1/ABC,USA,JPL; Caltech,"[""Spacecraft Navigation"", ""Computer Vision""]",Deep Learning
+p2,Optical Navigation for Small Bodies!,Same paper with different punctuation.,2021,,,U.S.,JPL,Spacecraft Navigation,
+p3,Hall thruster erosion,Erosion of Hall thrusters is measured over long firings.,,2019-05-02,https://doi.org/10.1/abc,Germany,DLR,Electric Propulsion,Monte Carlo Simulation
+p4,No abstract here,,2020,,,India,ISRO,Lunar Exploration,
+p5,Plasma wakes behind probes,Plasma wakes behind small probes are simulated.,2022,,10.2/x,Atlantis,,Plasma Wake Physics|Space Weather,
+p6,Lunar regolith sintering,Sintering of lunar regolith is tested in a vacuum chamber.,2018,,,,ESA,In-Space Manufacturing,

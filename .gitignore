@@ -1,0 +1,14 @@
+# Dependencies and builds
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Local settings and secrets
+.env
+.env.*
+*.local
+
+# TypeScript build cache
+*.tsbuildinfo

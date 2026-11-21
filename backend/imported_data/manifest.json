@@ -1,0 +1,8 @@
+{
+  "source_file": "sample_export.csv",
+  "rows_in": 6,
+  "papers_out": 3,
+  "duplicates_removed": 2,
+  "is_synthetic": false,
+  "importer": "COSMOS"
+}
